@@ -354,9 +354,9 @@ High
 { "DFIntS2PhysicsSenderRate": "1" }
 ```
 ### Disable TouchInterests
-[![Discord Presence](https://lanyard.cnrad.dev/api/996636510088601650?theme=dark&bg=00000&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=I'm%20currently%20beating%20my%20dick~&showDisplayName=true)](https://discord.com/users/996636510088601650)
+###### leaked by rikoz2528 (banned)
 ```json
-{ "": "-1" }
+{ "DFIntTouchSenderMaxBandwidthBps": "-1" }
 ```
 ### Invisible
 ```json
